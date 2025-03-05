@@ -26,4 +26,4 @@ Features
 + **GUI:** Built with tkinter for an interface.
 
 ### Screenshot
-![Port Scanner](Screenshot.png)
+![Port Scanner](Screenshot.PNG)
