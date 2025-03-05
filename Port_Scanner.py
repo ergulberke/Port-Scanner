@@ -152,7 +152,7 @@ def save_results():
 
 # Create GUI
 root = tk.Tk()
-root.title("Advanced Port Scanner")
+root.title("Port Scanner")
 root.geometry("800x600")
 
 # IP input

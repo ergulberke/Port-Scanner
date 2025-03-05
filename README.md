@@ -22,4 +22,8 @@ Before using this tool, ensure the following are installed on your system:
 Features
 + **Port Scanning:** Enter an IP address and port range (e.g., 1-100) to scan for open ports. Displays open ports with detected services.
 + **Network Scanning:** Automatically detects your local network to discover active devices with their hostnames.
++ **Save Results:**You can save the scan data as .txt file.
 + **GUI:** Built with tkinter for an interface.
+
+### Screenshot
+![Port Scanner](Screenshot.png)
