@@ -17,7 +17,7 @@ Before using this tool, ensure the following are installed on your system:
 1. Clone this repository
 2. Install the required Python libraries: `pip install -r requirements.txt`
 3. Verify that nmap is installed: `nmap -v`
-4. `python port_scanner.py`
+4. `python Port_Scanner.py`
 
 Features
 + **Port Scanning:** Enter an IP address and port range (e.g., 1-100) to scan for open ports. Displays open ports with detected services.
